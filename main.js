@@ -1,8 +1,8 @@
 // Inserire Età
-let eta = prompt("Inserire qui la tua età");
+let eta = parseInt(prompt("Inserire qui la tua età"));
 
 // Inserire Km da percorrere
-let km = prompt("Quanti km devi percorrere?");
+let km = parseInt(prompt("Quanti km devi percorrere?"));
 
 // Stabilisco Prezzo fisso Km
 let prezzoKm = 0.21;
